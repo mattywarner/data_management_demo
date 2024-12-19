@@ -5,3 +5,5 @@ Fixed error!!
 
 Another test of adding and committing!
 Finding the difference betweeen commits.
+
+Trying out CLI text editor.
